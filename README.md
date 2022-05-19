@@ -23,4 +23,4 @@ There are 12 classes of plants in this datasets and their botanical names are as
 
 If you find this dataset useful in your research, do acknowledge us with this citation:
 
-Shaukat, A., et al. "Automated Classification of Hair Care Plants using Geometrical and Textural Features from Leaf Images: A Pattern Recognition based Approach." Pakistan Journal of Science 68.4 (2016): 419.
+Shaukat, A., Farhan, S., Tahir, M., Fahiem, M. A., & Tauseef, H. (2016). Automated Classification of Hair Care Plants using Geometrical and Textural Features from Leaf Images: A Pattern Recognition based Approach. Pakistan Journal of Science, 68(4), 419.
